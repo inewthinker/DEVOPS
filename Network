@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T09:00:05.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Z01VTXQuyXn_i_klJRuw" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T09:00:26.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PtygKMb9VFFPYeb7F9Yn" version="20.2.2" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -209,11 +209,6 @@
         <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7c3789c024ecab99-79" target="7c3789c024ecab99-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="LNy7ZoBSw3VNgqpPDJ9e-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="617.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
           <mxGeometry x="670.0000000000002" y="180" width="100" height="30" as="geometry" />
         </mxCell>
@@ -229,12 +224,6 @@
         <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
           <mxGeometry x="670.0000000000002" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-10" value="" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;startArrow=none;" edge="1" parent="1" source="LNy7ZoBSw3VNgqpPDJ9e-1" target="LNy7ZoBSw3VNgqpPDJ9e-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719.7585379710872" y="1079" as="sourcePoint" />
-            <mxPoint x="713.0136986301368" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNy7ZoBSw3VNgqpPDJ9e-1" target="LNy7ZoBSw3VNgqpPDJ9e-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -243,12 +232,6 @@
         </mxCell>
         <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-13" value="&lt;ul&gt;&lt;li&gt;Vlan001 - 10.0.0.0/24&lt;/li&gt;&lt;li&gt;Vlan002 - 10.0.1.0/24&lt;/li&gt;&lt;li&gt;Vlan003 - 10.0.2.0/24&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="230" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-14" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-16" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNy7ZoBSw3VNgqpPDJ9e-17" value="Vlan Test 10.0.0.0/24" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="315" y="50" width="100" height="40" as="geometry" />
